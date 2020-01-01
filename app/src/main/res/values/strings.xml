@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pioneer</string>
+    <string name="bus_name">Creative Horizon</string>
+    <string name="add">28 Markham Road, M1K4W8</string>
+    <string name="hours">Mon-Fri 09 AM to 06 PM</string>
+    <string name="phone">(647) 112"-"0112</string>
+    <string name="about">About</string>
+    <string name="desc">Hey there there there there there there there there there there there there
+        there there  there there there </string>
+    <string name="button">Add to Favorite</string>
+
+</resources>
